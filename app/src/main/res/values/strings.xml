@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">EUNews</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news_found">No news found.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Order-By Preference, default is value by the "newest" [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!--Strings for Order-By "newest" [CHAR LIMIT=30] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!--Strings for Order-By "newest" [CHAR LIMIT=30] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!--Strings for Order-By "relevance" [CHAR LIMIT=30] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Strings for section preference settings: default is world news section [CHAR LIMIT=20] -->
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false">@string/settings_section_worldnews_value</string>
+
+    <!-- Strings for "world news" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_worldnews_label">World News</string>
+    <string name="settings_section_worldnews_value" translatable="false">world</string>
+
+    <!-- Strings for "Film" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_film_label">Film</string>
+    <string name="settings_section_film_value" translatable="false">film</string>
+
+    <!-- Strings for "media" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_media_label">Media</string>
+    <string name="settings_section_media_value" translatable="false">media</string>
+
+    <!-- Strings for "environment" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value" translatable="false">environment</string>
+
+    <!-- Strings for "news section option [CHAR LIMIT=20] -->
+    <string name="settings_section_news_label">News</string>
+    <string name="settings_section_news_value" translatable="false">news</string>
+
+    <!-- Strings for "science" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_science_label">Science</string>
+    <string name="settings_section_science_value" translatable="false">science</string>
+
+    <!-- Strings for "sport" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_sport_label">Sport</string>
+    <string name="settings_section_sport_value" translatable="false">sport</string>
+
+    <!-- Strings for "opinion" section option [CHAR LIMIT=20] -->
+    <string name="settings_section_opinion_label">Opinion</string>
+    <string name="settings_section_opinion_value" translatable="false">commentisfree</string>
+
+
+
+</resources>

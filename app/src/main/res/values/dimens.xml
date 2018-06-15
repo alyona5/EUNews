@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height">130dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="image_size">40dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="headline">18sp</dimen>
+    <dimen name="sub_headline">12sp</dimen>
+    <dimen name="author">14sp</dimen>
+</resources>
